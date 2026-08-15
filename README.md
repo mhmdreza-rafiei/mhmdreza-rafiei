@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <img src="assets/banner.png" alt="Mohammad Reza Rafiei" width="100%">
   <br>
