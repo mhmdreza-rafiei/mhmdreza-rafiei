@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 10809bd (docs: clean profile README and use shields badges)
 <div align="center">
 
 <img src="assets/banner.png" alt="Mohammad Reza Rafiei" width="100%">
