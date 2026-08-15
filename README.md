@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="assets/banner.png" alt="Mohammad Reza Rafiei" width="100%">
   <br>
@@ -60,3 +61,21 @@ I build products and infrastructure around coding agents. My public work is the 
 <img src="https://streak-stats.demolab.com?user=mhmdreza-rafiei&theme=dark&hide_border=true&background=0B0F17&ring=3B82F6&fire=3B82F6&currStreakLabel=E8EEF5" alt="GitHub streak">
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+**mhmdreza-rafiei/mhmdreza-rafiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a51d1763740a71ed6c30e97407203128322077b5
